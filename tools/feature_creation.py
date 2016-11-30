@@ -48,3 +48,4 @@ def CreateExercisedStockRatio(data_dict, features_list):
             employee['exercised_stock_ratio'] = 'NaN'
 
     features_list.append('exercised_stock_ratio')
+
