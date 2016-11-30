@@ -1,0 +1,8 @@
+(lp0
+S'poi'
+p1
+aS'exercised_stock_options'
+p2
+aS'poi_email_ratio'
+p3
+a.
