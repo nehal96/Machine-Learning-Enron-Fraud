@@ -5,7 +5,7 @@
 `/final_project/`:
 * `poi_id.py`: Main file. Runs final feature selection, feature scaling, various classifiers (optional) and their results. Finally, dumps classifier, dataset and feature list so anyone can check results.
 * `tester.py`: Functions for validation and evaluation of classifier, dumping and loading of pickle files.
-* * `my_classifier.pkl`: Pickle file for final classifier from `poi_id.py`.
+* `my_classifier.pkl`: Pickle file for final classifier from `poi_id.py`.
 * `my_dataset.pkl`: Pickle file for final dataset from `poi_id.py`.
 * `my_feature_list.pkl`: Pickle file for final feature list from `poi_id.py`.
 
